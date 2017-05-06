@@ -1,0 +1,11 @@
+
+
+# ignore  all files with extension
+*.zip
+*.gl
+*.pdf
+
+
+#ignore
+Assign*
+week02/home_data.gl/*
